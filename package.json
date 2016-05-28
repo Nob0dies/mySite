@@ -5,5 +5,8 @@
     "gulp-sass": "^2.1.1",
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "angular": "^1.5.5"
   }
 }

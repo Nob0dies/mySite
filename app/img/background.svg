@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#001734;stroke:url(#XMLID_67_);stroke-miterlimit:10;}
+	.st1{fill:#FCEE21;}
+	.st2{fill:url(#XMLID_68_);stroke:url(#XMLID_69_);stroke-miterlimit:10;}
+	.st3{fill:url(#XMLID_70_);stroke:url(#XMLID_71_);stroke-miterlimit:10;}
+	.st4{display:none;fill:none;}
+	.st5{fill:#E6E6E6;}
+	.st6{opacity:0.18;fill:url(#XMLID_73_);}
+	.st7{opacity:0.18;fill:url(#XMLID_74_);}
+	.st8{opacity:0.18;fill:url(#XMLID_75_);}
+	.st9{opacity:0.18;fill:url(#XMLID_76_);}
+	.st10{opacity:0.18;fill:url(#XMLID_77_);}
+	.st11{opacity:0.18;fill:url(#XMLID_78_);}
+	.st12{opacity:0.18;fill:url(#XMLID_79_);}
+	.st13{opacity:0.18;fill:url(#XMLID_80_);}
+	.st14{opacity:0.18;fill:url(#XMLID_81_);}
+	.st15{opacity:0.18;fill:url(#XMLID_82_);}
+	.st16{opacity:0.18;fill:url(#XMLID_83_);}
+	.st17{opacity:0.18;fill:url(#XMLID_84_);}
+	.st18{opacity:0.18;fill:url(#XMLID_85_);}
+	.st19{opacity:0.18;fill:#FFFFFF;}
+</style>
+<symbol  id="Deleted_Symbol" viewBox="-488.8 -289.5 977.6 578.9">
+	<radialGradient id="XMLID_67_" cx="-3.255511e-004" cy="-3.026125e-007" r="401.6982" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.117" style="stop-color:#CCE0F4"/>
+		<stop  offset="0.1595" style="stop-color:#C3D8ED"/>
+		<stop  offset="0.2302" style="stop-color:#A9C1DA"/>
+		<stop  offset="0.3204" style="stop-color:#809DBB"/>
+		<stop  offset="0.4265" style="stop-color:#466A90"/>
+		<stop  offset="0.5407" style="stop-color:#002C5C"/>
+		<stop  offset="0.9944" style="stop-color:#002545"/>
+	</radialGradient>
+	<polygon id="XMLID_10_" class="st0" points="488.3,-289 -484.1,-289 -488.3,289 484.1,289 	"/>
+</symbol>
+<symbol  id="Новый_символ" viewBox="-13.7 -13.5 27.4 27">
+	<path id="XMLID_17_" class="st1" d="M7.4-13.4L0.3-9.5C0-9.3-0.2-9.3-0.5-9.4l-7.2-3.8C-8.3-13.6-9-13-8.9-12.3l1.4,8.2
+		c0,0.3,0,0.6-0.2,0.8l-5.7,5.9C-14,3-13.7,3.9-13,4l8,1.1c0.3,0,0.5,0.2,0.6,0.5l3.6,7.4c0.3,0.6,1.2,0.6,1.5,0l3.5-7.5
+		C4.5,5.2,4.7,5.1,5,5l8-1.3c0.7-0.1,1-1,0.5-1.5L7.6-3.5C7.4-3.7,7.3-4,7.4-4.3l1.3-8.2C8.8-13.2,8-13.7,7.4-13.4z"/>
+</symbol>
+<symbol  id="Новый_символ_1" viewBox="-488.8 -289.5 977.6 578.9">
+	
+		<use xlink:href="#Deleted_Symbol"  width="977.6" height="578.9" id="XMLID_12_" x="-488.8" y="-289.5" style="overflow:visible;"/>
+	<radialGradient id="XMLID_68_" cx="160.6663" cy="75.3333" r="4.6667" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3723" style="stop-color:#CCE0F4"/>
+		<stop  offset="0.4196" style="stop-color:#C3D8ED"/>
+		<stop  offset="0.4983" style="stop-color:#A9C1DA"/>
+		<stop  offset="0.5986" style="stop-color:#809DBB"/>
+		<stop  offset="0.7168" style="stop-color:#466A90"/>
+		<stop  offset="0.8439" style="stop-color:#002C5C"/>
+		<stop  offset="0.9944" style="stop-color:#002545"/>
+	</radialGradient>
+	<radialGradient id="XMLID_69_" cx="160.6663" cy="75.3333" r="5.1667" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3723" style="stop-color:#CCE0F4"/>
+		<stop  offset="0.4196" style="stop-color:#C3D8ED"/>
+		<stop  offset="0.4983" style="stop-color:#A9C1DA"/>
+		<stop  offset="0.5986" style="stop-color:#809DBB"/>
+		<stop  offset="0.7168" style="stop-color:#466A90"/>
+		<stop  offset="0.8439" style="stop-color:#002C5C"/>
+		<stop  offset="0.9944" style="stop-color:#002545"/>
+	</radialGradient>
+	<path id="XMLID_8_" class="st2" d="M165.3,75.3c0-2.6-2.1-4.7-4.7-4.7c-2.6,0-4.7,2.1-4.7,4.7c0,2.6,2.1,4.7,4.7,4.7
+		C163.2,80,165.3,77.9,165.3,75.3z"/>
+</symbol>
+<symbol  id="Новый_символ_2" viewBox="-5 -5.2 10 10.3">
+	<radialGradient id="XMLID_70_" cx="0" cy="-1.627604e-004" r="4.5031" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3723" style="stop-color:#CCE0F4"/>
+		<stop  offset="0.4196" style="stop-color:#C3D8ED"/>
+		<stop  offset="0.4983" style="stop-color:#A9C1DA"/>
+		<stop  offset="0.5986" style="stop-color:#809DBB"/>
+		<stop  offset="0.7168" style="stop-color:#466A90"/>
+		<stop  offset="0.8439" style="stop-color:#002C5C"/>
+		<stop  offset="0.9944" style="stop-color:#002545"/>
+	</radialGradient>
+	<radialGradient id="XMLID_71_" cx="0" cy="-1.627604e-004" r="5.0028" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3723" style="stop-color:#CCE0F4"/>
+		<stop  offset="0.4196" style="stop-color:#C3D8ED"/>
+		<stop  offset="0.4983" style="stop-color:#A9C1DA"/>
+		<stop  offset="0.5986" style="stop-color:#809DBB"/>
+		<stop  offset="0.7168" style="stop-color:#466A90"/>
+		<stop  offset="0.8439" style="stop-color:#002C5C"/>
+		<stop  offset="0.9944" style="stop-color:#002545"/>
+	</radialGradient>
+	<path id="XMLID_6_" class="st3" d="M4.3,0c0-2.6-1.9-4.7-4.3-4.7S-4.3-2.6-4.3,0S-2.4,4.7,0,4.7S4.3,2.6,4.3,0z"/>
+	<polygon id="XMLID_13_" class="st4" points="-5,5 5,5 5,-5 -5,-5 	"/>
+</symbol>
+<use xlink:href="#Новый_символ_1"  width="977.6" height="578.9" id="XMLID_4_" x="-488.8" y="-289.5" transform="matrix(1 0 0 -1.0233 484 277.2046)" style="overflow:visible;"/>
+<g id="XMLID_2_">
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_127_" x="-5" y="-5.2" transform="matrix(1.0006 0 0 -1.0006 498.7372 108.4103)" style="overflow:visible;opacity:0.246;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_117_" x="-5" y="-5.2" transform="matrix(1.9478 0 0 -1.9478 341.6755 213.0436)" style="overflow:visible;opacity:0.7689;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_116_" x="-5" y="-5.2" transform="matrix(1.0765 0 0 -1.0765 511.4284 336.9934)" style="overflow:visible;opacity:0.7592;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_121_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 701 328)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_132_" x="-5" y="-5.2" transform="matrix(1.5009 0 0 -1.5009 599.1042 92.2756)" style="overflow:visible;opacity:0.4705;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_135_" x="-5" y="-5.2" transform="matrix(1.3542 0 0 -1.3542 264.9327 69.6901)" style="overflow:visible;opacity:0.3565;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_133_" x="-5" y="-5.2" transform="matrix(1.415 0 0 -1.415 273.7326 78.9471)" style="overflow:visible;opacity:0.3381;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_115_" x="-5" y="-5.2" transform="matrix(1.1152 0 0 -1.1152 231.8697 210.5026)" style="overflow:visible;opacity:0.5684;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_114_" x="-5" y="-5.2" transform="matrix(1.1509 0 0 -1.1509 477.0387 257.046)" style="overflow:visible;opacity:0.6867;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_113_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 268 320)" style="overflow:visible;opacity:0.7018;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_134_" x="-5" y="-5.2" transform="matrix(1.3427 0 0 -1.3427 414.0002 72.2091)" style="overflow:visible;opacity:0.3976;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_122_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 776 327)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_131_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 66 96)" style="overflow:visible;opacity:0.5955;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_112_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 176 204)" style="overflow:visible;opacity:0.5223;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_137_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 163 28)" style="overflow:visible;opacity:0.3901;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_142_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 27 10)" style="overflow:visible;opacity:0.7614;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_111_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 16 216)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_140_" x="-5" y="-5.2" transform="matrix(1.0784 0 0 -1.0784 640.298 22.1788)" style="overflow:visible;opacity:0.6433;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_123_" x="-5" y="-5.2" transform="matrix(1.4596 0 0 -1.4596 793.6757 183.8416)" style="overflow:visible;opacity:0.6811;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_141_" x="-5" y="-5.2" transform="matrix(1.0297 0 0 -1.0297 827.8782 14.9718)" style="overflow:visible;opacity:0.6903;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_125_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 909 298)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_126_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 938 488)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_120_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 705 446)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_110_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 405 460)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_109_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 148 335)" style="overflow:visible;opacity:0.8014;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_108_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 78 446)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_107_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 83 438)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_106_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 186 511)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_105_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 308 400)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_118_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 625 518)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_124_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 858 443)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_138_" x="-5" y="-5.2" transform="matrix(1.1256 0 0 -1.1256 722.2264 32.612)" style="overflow:visible;opacity:0.5233;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_139_" x="-5" y="-5.2" transform="matrix(1.1172 0 0 -1.1172 361.4328 17.8817)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_129_" x="-5" y="-5.2" transform="matrix(1 0 0 -1 156 105)" style="overflow:visible;opacity:0.3206;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_136_" x="-5" y="-5.2" transform="matrix(1.1497 0 0 -1.1497 498.9278 25.0954)" style="overflow:visible;opacity:0.9237;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_130_" x="-5" y="-5.2" transform="matrix(2.6864 0 0 -2.6864 769.0938 104.392)" style="overflow:visible;opacity:0.2061;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_128_" x="-5" y="-5.2" transform="matrix(1.3808 0 0 -1.3808 893.6266 107.9091)" style="overflow:visible;opacity:0.3056;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_119_" x="-5" y="-5.2" transform="matrix(1.3045 0 0 -1.3045 710.3348 140.7868)" style="overflow:visible;opacity:0.6182;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_104_" x="-5" y="-5.2" transform="matrix(1.4628 0 0 -1.4628 409.3352 170.491)" style="overflow:visible;opacity:0.1096;"/>
+	
+		<use xlink:href="#Новый_символ_2"  width="10" height="10.3" id="XMLID_103_" x="-5" y="-5.2" transform="matrix(1.673 0 0 -1.673 263.6971 159.6793)" style="overflow:visible;opacity:0.4435;"/>
+</g>
+<g id="XMLID_11_">
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_34_" x="-13.7" y="-13.5" transform="matrix(0.1989 0.2646 0.2443 -0.1837 777.8022 -35.0899)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_33_" x="-13.7" y="-13.5" transform="matrix(0.1989 0.2646 0.2443 -0.1837 789.4918 51.3903)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_32_" x="-13.7" y="-13.5" transform="matrix(0.1989 0.2646 0.2443 -0.1837 897.3582 117.1319)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_31_" x="-13.7" y="-13.5" transform="matrix(0.1989 0.2646 0.2443 -0.1837 829.8223 181.5839)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_30_" x="-13.7" y="-13.5" transform="matrix(0.1989 0.2646 0.2443 -0.1837 660.9772 -34.9734)" style="overflow:visible;"/>
+</g>
+<g id="XMLID_1_">
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_48_" x="-13.7" y="-13.5" transform="matrix(0.3669 0.1159 0.107 -0.3388 132.6354 -15.5883)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_49_" x="-13.7" y="-13.5" transform="matrix(0.3669 0.1159 0.107 -0.3388 202.1243 58.3134)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_51_" x="-13.7" y="-13.5" transform="matrix(0.3669 0.1159 0.107 -0.3388 348.5728 47.6151)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_50_" x="-13.7" y="-13.5" transform="matrix(0.3669 0.1159 0.107 -0.3388 328.24 154.2112)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Новый_символ"  width="27.4" height="27" id="XMLID_47_" x="-13.7" y="-13.5" transform="matrix(0.3669 0.1159 0.107 -0.3388 22.2114 63.4569)" style="overflow:visible;"/>
+</g>
+<path id="XMLID_72_" class="st5" d="M970.6,499.1c0,251-218.9,454.5-489,454.5s-489-203.5-489-454.5s218.9-454.5,489-454.5
+	S970.6,248.1,970.6,499.1z"/>
+<linearGradient id="XMLID_73_" gradientUnits="userSpaceOnUse" x1="306.4761" y1="247.5984" x2="337.2206" y2="194.3473">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_23_" class="st6" d="M373.4,243.8c-6.6,15.4-35.1,17.6-63.6,5c-28.5-12.6-46.1-35.4-39.5-50.8
+	c6.6-15.4,35.1-17.6,63.6-5C362.3,205.7,380,228.5,373.4,243.8z"/>
+<linearGradient id="XMLID_74_" gradientUnits="userSpaceOnUse" x1="668.0532" y1="343.9343" x2="746.605" y2="265.3824">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_25_" class="st7" d="M791.7,329c-6.1,21.8-48.9,28.6-95.5,15.2c-46.6-13.4-79.5-42-73.3-63.8
+	c6.1-21.8,48.9-28.6,95.5-15.2C765,278.6,797.8,307.1,791.7,329z"/>
+<linearGradient id="XMLID_75_" gradientUnits="userSpaceOnUse" x1="133.7438" y1="504.9194" x2="202.4683" y2="385.8851">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_28_" class="st8" d="M225,400.6c12.4,16.3-2.9,49.5-34.3,74.2s-67,31.6-79.4,15.3c-12.4-16.3,2.9-49.5,34.3-74.2
+	S212.5,384.4,225,400.6z"/>
+<linearGradient id="XMLID_76_" gradientUnits="userSpaceOnUse" x1="576.3378" y1="142.4751" x2="614.8315" y2="75.802">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_29_" class="st9" d="M658.1,125.2c-4.8,19.1-36.6,27.5-71.2,18.6c-34.5-8.9-58.7-31.6-53.9-50.7
+	c4.8-19.1,36.6-27.5,71.2-18.6S662.9,106,658.1,125.2z"/>
+<linearGradient id="XMLID_77_" gradientUnits="userSpaceOnUse" x1="558.7914" y1="577.5434" x2="617.3787" y2="476.0674">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<ellipse id="XMLID_57_" class="st10" cx="588.1" cy="526.8" rx="84" ry="47.2"/>
+<linearGradient id="XMLID_78_" gradientUnits="userSpaceOnUse" x1="169.754" y1="211.7931" x2="203.9562" y2="152.5533">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_58_" class="st11" d="M214.5,160c8,10.2,2.1,28.4-13.2,40.7c-15.3,12.3-34.1,13.9-42.1,3.7
+	c-8-10.2-2.1-28.4,13.2-40.7S206.5,149.8,214.5,160z"/>
+<linearGradient id="XMLID_79_" gradientUnits="userSpaceOnUse" x1="319.8067" y1="384.5715" x2="362.8881" y2="309.9523">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<ellipse id="XMLID_59_" class="st12" cx="341.3" cy="347.3" rx="39.7" ry="44.1"/>
+<linearGradient id="XMLID_80_" gradientUnits="userSpaceOnUse" x1="450.3586" y1="158.2547" x2="476.3253" y2="113.279">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<ellipse id="XMLID_60_" class="st13" cx="463.3" cy="135.8" rx="26.2" ry="25.9"/>
+<linearGradient id="XMLID_81_" gradientUnits="userSpaceOnUse" x1="908.0712" y1="472.3847" x2="944.4987" y2="409.2904">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<ellipse id="XMLID_61_" class="st14" cx="926.3" cy="440.8" rx="33.7" ry="37.3"/>
+<linearGradient id="XMLID_82_" gradientUnits="userSpaceOnUse" x1="471.5805" y1="404.9092" x2="524.0907" y2="313.9589">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<ellipse id="XMLID_62_" class="st15" cx="497.8" cy="359.4" rx="54.7" ry="51.7"/>
+<linearGradient id="XMLID_83_" gradientUnits="userSpaceOnUse" x1="42.1905" y1="368.1143" x2="93.0301" y2="280.0575">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_63_" class="st16" d="M81.2,330.5c-12,25.5-27.8,43.2-35.3,39.7S42,343.1,54,317.7c12-25.5,27.8-43.2,35.3-39.7
+	C96.9,281.5,93.2,305,81.2,330.5z"/>
+<linearGradient id="XMLID_84_" gradientUnits="userSpaceOnUse" x1="768.8295" y1="225.7331" x2="794.8243" y2="180.7089">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_64_" class="st17" d="M796.8,191.8c15.9,21.5,22.1,44.1,13.8,50.4c-8.3,6.3-27.9-6-43.8-27.5s-22.1-44.1-13.8-50.4
+	C761.3,158,780.9,170.3,796.8,191.8z"/>
+<linearGradient id="XMLID_85_" gradientUnits="userSpaceOnUse" x1="334.0008" y1="123.9671" x2="368.694" y2="63.8768">
+	<stop  offset="0.3" style="stop-color:#B3B3B3;stop-opacity:0.3"/>
+	<stop  offset="0.4637" style="stop-color:#9A9A9A;stop-opacity:0.3"/>
+	<stop  offset="0.8102" style="stop-color:#595959;stop-opacity:0.3"/>
+	<stop  offset="1" style="stop-color:#333333;stop-opacity:0.3"/>
+</linearGradient>
+<path id="XMLID_65_" class="st18" d="M393.2,79.2c2.3,6.7-14.5,18.8-37.6,26.9s-43.7,9.2-46,2.5c-2.3-6.7,14.5-18.8,37.6-26.9
+	C370.3,73.6,390.9,72.5,393.2,79.2z"/>
+<path id="XMLID_19_" class="st19" d="M11.5,590.9c0,0,20.7-26.5-1.2-2.7c-18.9,20.5-21.2-45.2-21.7-54.1
+	C-19,397,45.8,260.4,143.8,173.8c57.8-51.1,122-81.4,191.5-109.2c0,0-38.6,22.1-38.6,22.2c-25.3,14.5-54.3,25.2-78.8,43.1
+	c-27.1,19.9-48,47.1-71.2,71.6c-21.8,23-45.1,44.3-60.7,72.9c-33.9,62-70.9,154.3-63.8,227.6c2.1,21.9,4.2,43.8,6.3,65.7
+	C30.7,589.4,31.4,591,11.5,590.9z"/>
+</svg>

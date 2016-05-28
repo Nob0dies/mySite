@@ -1,14 +1,11 @@
 {
   "name": "test-task",
   "dependencies": {
-    "jquery": "1.8",
+    "jquery": "2.2.3",
     "normalize-css": "normalize.css#~3.0.3",
+    "bootstrap": "3.3.6",
     "angular": "^1.5.5",
-    "magic": "^1.1.0",
-    "animate.css": "^3.5.1",
-    "angular-animate": "^1.5.5",
-    "bounce.js": "^0.8.2",
-    "angular-fx": "^1.1.0",
-    "angular-velocity": "^0.3.2"
+    "uikit": "^2.26.3",
+    "magic": "^1.1.0"
   }
 }
